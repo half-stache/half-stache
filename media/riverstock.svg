@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="A release wave travelling down the Little Red River from Greers Ferry Dam to Ramsey Access, arriving at each access point at the hour the Riverstock model estimates" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+<rect width="800" height="300" fill="#121010"/>
+<text x="40" y="28" fill="#aca49a" letter-spacing="1">RELEASE WAVE DOWN THE LITTLE RED RIVER</text>
+<text x="760" y="28" fill="#aca49a" text-anchor="end" letter-spacing="1">HOURS AFTER RELEASE</text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">0<animate attributeName="opacity" values="1;0;0" keyTimes="0;0.0667;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">1<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.0667;0.1333;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">2<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.1333;0.2000;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">3<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.2000;0.2667;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">4<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.2667;0.3333;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">5<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.3333;0.4000;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">6<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.4000;0.4667;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">7<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.4667;0.5333;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">8<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5333;0.6000;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">9<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.6000;0.6667;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">10<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.6667;0.7333;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">11<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7333;0.8000;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<text x="760" y="60" fill="#f1ece3" text-anchor="end" font-size="28" opacity="0">12<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.8000;1" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></text>
+<path d="M40,150 C139.31034482758622,128 238.6206896551724,176 337.9310344827586,154 S536.551724137931,126 635.8620689655172,156 S735.1724137931035,168 760,144" fill="none" stroke="rgba(241,236,227,0.22)" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M40,150 C139.31034482758622,128 238.6206896551724,176 337.9310344827586,154 S536.551724137931,126 635.8620689655172,156 S735.1724137931035,168 760,144" fill="none" stroke="#e8503f" stroke-width="2.5" stroke-linecap="round" pathLength="1" stroke-dasharray="1 1" stroke-dashoffset="1">
+<animate attributeName="stroke-dashoffset" values="0.9990;0.8130;0.6606;0.4601;0.3447;0.1842;0.0000;0.0000;1" keyTimes="0.0000;0.1533;0.2733;0.4333;0.5267;0.6533;0.7933;0.9000;1" calcMode="linear" dur="15.0s" repeatCount="indefinite"/>
+</path>
+<line x1="40.0" y1="150" x2="40.0" y2="116" stroke="rgba(241,236,227,0.22)" stroke-width="1"/>
+<circle cx="40.0" cy="150" r="4.5" fill="#121010" stroke="#f1ece3" stroke-width="1.5"><animate attributeName="r" values="9;4.5;4.5" keyTimes="0;0.0167;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="fill" values="#e8503f;#121010;#121010" keyTimes="0;0.0800;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="stroke" values="#e8503f;#f1ece3;#f1ece3" keyTimes="0;0.0800;1" dur="15.0s" repeatCount="indefinite"/></circle>
+<text x="40.0" y="102" text-anchor="start" fill="#f1ece3">Greers Ferry Dam</text>
+<text x="40.0" y="118" text-anchor="start" fill="#aca49a">mile 0</text>
+<line x1="176.6" y1="150" x2="176.6" y2="188" stroke="rgba(241,236,227,0.22)" stroke-width="1"/>
+<circle cx="176.6" cy="150" r="4.5" fill="#121010" stroke="#f1ece3" stroke-width="1.5"><animate attributeName="r" values="4.5;4.5;9;4.5;4.5" keyTimes="0;0.1533;0.1700;0.2333;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="fill" values="#121010;#121010;#e8503f;#121010;#121010" keyTimes="0;0.1533;0.1700;0.2333;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="stroke" values="#f1ece3;#f1ece3;#e8503f;#f1ece3;#f1ece3" keyTimes="0;0.1533;0.1700;0.2333;1" dur="15.0s" repeatCount="indefinite"/></circle>
+<text x="176.6" y="212" text-anchor="middle" fill="#f1ece3">Cow Shoals</text>
+<text x="176.6" y="228" text-anchor="middle" fill="#aca49a">2.3 h · mi 5.5</text>
+<line x1="288.3" y1="150" x2="288.3" y2="116" stroke="rgba(241,236,227,0.22)" stroke-width="1"/>
+<circle cx="288.3" cy="150" r="4.5" fill="#121010" stroke="#f1ece3" stroke-width="1.5"><animate attributeName="r" values="4.5;4.5;9;4.5;4.5" keyTimes="0;0.2733;0.2900;0.3533;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="fill" values="#121010;#121010;#e8503f;#121010;#121010" keyTimes="0;0.2733;0.2900;0.3533;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="stroke" values="#f1ece3;#f1ece3;#e8503f;#f1ece3;#f1ece3" keyTimes="0;0.2733;0.2900;0.3533;1" dur="15.0s" repeatCount="indefinite"/></circle>
+<text x="288.3" y="102" text-anchor="middle" fill="#f1ece3">Winkley Bridge</text>
+<text x="288.3" y="118" text-anchor="middle" fill="#aca49a">4.1 h · mi 10</text>
+<line x1="434.8" y1="150" x2="434.8" y2="188" stroke="rgba(241,236,227,0.22)" stroke-width="1"/>
+<circle cx="434.8" cy="150" r="4.5" fill="#121010" stroke="#f1ece3" stroke-width="1.5"><animate attributeName="r" values="4.5;4.5;9;4.5;4.5" keyTimes="0;0.4333;0.4500;0.5133;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="fill" values="#121010;#121010;#e8503f;#121010;#121010" keyTimes="0;0.4333;0.4500;0.5133;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="stroke" values="#f1ece3;#f1ece3;#e8503f;#f1ece3;#f1ece3" keyTimes="0;0.4333;0.4500;0.5133;1" dur="15.0s" repeatCount="indefinite"/></circle>
+<text x="434.8" y="212" text-anchor="middle" fill="#f1ece3">Lobo Landing</text>
+<text x="434.8" y="228" text-anchor="middle" fill="#aca49a">6.5 h · mi 15.9</text>
+<line x1="519.2" y1="150" x2="519.2" y2="116" stroke="rgba(241,236,227,0.22)" stroke-width="1"/>
+<circle cx="519.2" cy="150" r="4.5" fill="#121010" stroke="#f1ece3" stroke-width="1.5"><animate attributeName="r" values="4.5;4.5;9;4.5;4.5" keyTimes="0;0.5267;0.5433;0.6067;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="fill" values="#121010;#121010;#e8503f;#121010;#121010" keyTimes="0;0.5267;0.5433;0.6067;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="stroke" values="#f1ece3;#f1ece3;#e8503f;#f1ece3;#f1ece3" keyTimes="0;0.5267;0.5433;0.6067;1" dur="15.0s" repeatCount="indefinite"/></circle>
+<text x="519.2" y="102" text-anchor="middle" fill="#f1ece3">Mossy Shoal</text>
+<text x="519.2" y="118" text-anchor="middle" fill="#aca49a">7.9 h · mi 19.3</text>
+<line x1="635.9" y1="150" x2="635.9" y2="188" stroke="rgba(241,236,227,0.22)" stroke-width="1"/>
+<circle cx="635.9" cy="150" r="4.5" fill="#121010" stroke="#f1ece3" stroke-width="1.5"><animate attributeName="r" values="4.5;4.5;9;4.5;4.5" keyTimes="0;0.6533;0.6700;0.7333;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="fill" values="#121010;#121010;#e8503f;#121010;#121010" keyTimes="0;0.6533;0.6700;0.7333;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="stroke" values="#f1ece3;#f1ece3;#e8503f;#f1ece3;#f1ece3" keyTimes="0;0.6533;0.6700;0.7333;1" dur="15.0s" repeatCount="indefinite"/></circle>
+<text x="635.9" y="212" text-anchor="middle" fill="#f1ece3">Pangburn</text>
+<text x="635.9" y="228" text-anchor="middle" fill="#aca49a">9.8 h · mi 24</text>
+<line x1="760.0" y1="150" x2="760.0" y2="116" stroke="rgba(241,236,227,0.22)" stroke-width="1"/>
+<circle cx="760.0" cy="150" r="4.5" fill="#121010" stroke="#f1ece3" stroke-width="1.5"><animate attributeName="r" values="4.5;4.5;9;4.5;4.5" keyTimes="0;0.7933;0.8100;0.8733;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="fill" values="#121010;#121010;#e8503f;#121010;#121010" keyTimes="0;0.7933;0.8100;0.8733;1" dur="15.0s" repeatCount="indefinite"/><animate attributeName="stroke" values="#f1ece3;#f1ece3;#e8503f;#f1ece3;#f1ece3" keyTimes="0;0.7933;0.8100;0.8733;1" dur="15.0s" repeatCount="indefinite"/></circle>
+<text x="760.0" y="102" text-anchor="end" fill="#f1ece3">Ramsey Access</text>
+<text x="760.0" y="118" text-anchor="end" fill="#aca49a">11.9 h · mi 29</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0200;0.7933;0.8667;1" dur="15.0s" repeatCount="indefinite"/>
+<circle r="16" fill="#e8503f" opacity="0.25"><animateMotion dur="15.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0.0010;0.1870;0.3394;0.5399;0.6553;0.8158;1.0000;1.0000" keyTimes="0.0000;0.1533;0.2733;0.4333;0.5267;0.6533;0.7933;1"><mpath href="#river"/></animateMotion></circle>
+<circle r="6" fill="#e8503f"><animateMotion dur="15.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0.0010;0.1870;0.3394;0.5399;0.6553;0.8158;1.0000;1.0000" keyTimes="0.0000;0.1533;0.2733;0.4333;0.5267;0.6533;0.7933;1"><mpath href="#river"/></animateMotion></circle>
+</g>
+<path id="river" d="M40,150 C139.31034482758622,128 238.6206896551724,176 337.9310344827586,154 S536.551724137931,126 635.8620689655172,156 S735.1724137931035,168 760,144" fill="none" stroke="none"/>
+<text x="40" y="284" fill="#6f6860">Model estimates. Ramsey measured: 12 h median over 121 events, not the folk figure of 8 h.</text>
+</svg>
